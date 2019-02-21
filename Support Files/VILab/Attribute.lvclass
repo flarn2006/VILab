@@ -80,7 +80,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 	</Item>
 	<Item Name="Create Attribute (Data Item).vi" Type="VI" URL="../Attribute/Create Attribute (Data Item).vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$/!!!!"1!%!!!!-E"Q!"Y!!"],6EF-97)O&lt;(:M;7)2182U=GFC&gt;82F,GRW9WRB=X-!#5&amp;U&gt;(*J9H6U:1!O1(!!(A!!(QN735RB9CZM&gt;GRJ9B&amp;%982B)%FU:7UO&lt;(:D&lt;'&amp;T=Q!&amp;6G&amp;M&gt;75!$E!Q`````Q2/97VF!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!)!!Q)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!#%!!!!!!"!!1!!!!!</Property>

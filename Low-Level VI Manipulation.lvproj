@@ -37,6 +37,7 @@
 			<Property Name="marked" Type="Int">0</Property>
 		</Item>
 		<Item Name="VILab.lvlib" Type="Library" URL="../VILab.lvlib"/>
+		<Item Name="Launch VILab.vi" Type="VI" URL="../Launch VILab.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi">
