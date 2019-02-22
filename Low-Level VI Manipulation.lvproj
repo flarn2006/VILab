@@ -11,7 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Less-useful subVI&apos;s" Type="Folder">
+		<Item Name="RE/EZXML Support" Type="Folder">
 			<Item Name="Easy XML Editor Menu.vi" Type="VI" URL="../Support Files/Easy XML Editor Menu.vi">
 				<Property Name="marked" Type="Int">0</Property>
 			</Item>
@@ -24,11 +24,6 @@
 				<Property Name="marked" Type="Int">0</Property>
 			</Item>
 		</Item>
-		<Item Name="Useful subVI&apos;s" Type="Folder">
-			<Item Name="Fix BDPW Checksum.vi" Type="VI" URL="../Support Files/Fix BDPW Checksum.vi">
-				<Property Name="marked" Type="Int">0</Property>
-			</Item>
-		</Item>
 		<Item Name="Resource Manipulation.lvlib" Type="Library" URL="../Resource Manipulation.lvlib"/>
 		<Item Name="Easy XML Editor.vi" Type="VI" URL="../Easy XML Editor.vi">
 			<Property Name="marked" Type="Int">0</Property>
@@ -38,6 +33,7 @@
 		</Item>
 		<Item Name="VILab.lvlib" Type="Library" URL="../VILab.lvlib"/>
 		<Item Name="Launch VILab.vi" Type="VI" URL="../Launch VILab.vi"/>
+		<Item Name="Basic Test SubVI.vi" Type="VI" URL="../Support Files/VILab/Basic Test SubVI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi">
@@ -182,13 +178,6 @@
 				<Item Name="NI_XML.lvlib" Type="Library" URL="/&lt;vilib&gt;/xml/NI_XML.lvlib"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="Normalize End Of Line.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Normalize End Of Line.vi"/>
-				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
-				<Item Name="compatOverwrite.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOverwrite.vi"/>
-				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
-				<Item Name="Close WDT Array Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Close WDT Array Dlog File+.vi"/>
-				<Item Name="Write WDT Array Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Write WDT Array Dlog File+.vi"/>
-				<Item Name="Open Create Replace WDT Array Dlog File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Open Create Replace WDT Array Dlog File.vi"/>
-				<Item Name=" Write Waveform to File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/ Write Waveform to File.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="MD5 Message Digest (Binary String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/md5/md5.llb/MD5 Message Digest (Binary String)__ogtk.vi">

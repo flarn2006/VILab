@@ -27,6 +27,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Test XML Rebuild.vi" Type="VI" URL="../Support Files/VILab/Test XML Rebuild.vi"/>
 		<Item Name="Tree Test.vi" Type="VI" URL="../Support Files/VILab/Tree Test.vi"/>
+		<Item Name="Remove Unnecessary Whitespace from XML.vi" Type="VI" URL="../Support Files/VILab/Remove Unnecessary Whitespace from XML.vi"/>
 	</Item>
 	<Item Name="State Enum.ctl" Type="VI" URL="../Support Files/VILab/State Enum.ctl"/>
 	<Item Name="VILab Data.ctl" Type="VI" URL="../Support Files/VILab/VILab Data.ctl"/>

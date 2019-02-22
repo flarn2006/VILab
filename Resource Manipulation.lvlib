@@ -30,6 +30,7 @@
 		<Item Name="Test Decompose and Recompose.vi" Type="VI" URL="../Resource Manipulation/Test Decompose and Recompose.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Fix BDPW Checksum.vi" Type="VI" URL="../Support Files/Fix BDPW Checksum.vi"/>
 	</Item>
 	<Item Name="Add Resource Size Bytes.vi" Type="VI" URL="../Support Files/Add Resource Size Bytes.vi"/>
 	<Item Name="Find Resource by Type.vi" Type="VI" URL="../Resource Manipulation/Find Resource by Type.vi"/>

@@ -64,4 +64,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
+	<Item Name="Update Item.vi" Type="VI" URL="../Tree Manager/Update Item.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'#!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Z!=!!?!!!C#V:*4'&amp;C,GRW&lt;'FC&amp;&amp;2S:75A47&amp;O97&gt;F=CZM&gt;G.M98.T!!!16(*F:3".97ZB:W6S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!(QN735RB9CZM&gt;GRJ9B&amp;%982B)%FU:7UO&lt;(:D&lt;'&amp;T=Q!)4G6X)%FU:7U!!!R!-0````]$6'&amp;H!$R!=!!?!!!C#V:*4'&amp;C,GRW&lt;'FC&amp;&amp;2S:75A47&amp;O97&gt;F=CZM&gt;G.M98.T!!!06(*F:3".97ZB:W6S)'FO!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
 </LVClass>
